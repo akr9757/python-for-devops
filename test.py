@@ -1,0 +1,2 @@
+name = "akr"
+print ("name")
